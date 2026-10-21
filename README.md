@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/mechanical-watch-movement-explainer/
 
+Repository: https://github.com/mizcausevic-dev/mechanical-watch-movement-explainer
+
 ## What this is
 
 An interactive anatomy plate for Mechanical Watch Movement. Play, scrub, or jump the five stages. The same frame always draws the same picture.
